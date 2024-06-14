@@ -3,5 +3,5 @@
         "OTAUpdateManager.py",
         "github:raghulrajg/MicroPython-OTAUpdateManager/OTAUpdateManager.py"
     ],
-    "version": "1.0.0"
+    "version": "1"
 }
