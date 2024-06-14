@@ -77,18 +77,18 @@ To install directly using a WIFI capable board
 #### Installing from PyPI
 
 On supported GNU/Linux systems like the Raspberry Pi, you can install the driver locally `from
-PyPI <https://pypi.org/project/MicroPython-OTAUpdateManager/>`_.
+PyPI <https://pypi.org/project/micropython-OTAUpdateManager/>`_.
 To install for current user:
 
 ```bash
-    pip3 install MicroPython-OTAUpdateManager
+    pip3 install micropython-OTAUpdateManager
 ```
 
 To install system-wide (this may be required in some cases):
 
 
 ```bash
-sudo pip3 install MicroPython-OTAUpdateManager
+sudo pip3 install micropython-OTAUpdateManager
 ```
 To install in a virtual environment in your current project:
 
@@ -96,7 +96,7 @@ To install in a virtual environment in your current project:
     mkdir project-name && cd project-name
     python3 -m venv .venv
     source .env/bin/activate
-    pip3 install MicroPython-OTAUpdateManager
+    pip3 install micropython-OTAUpdateManager
 ```
 
 Also see [examples](https://github.com/raghulrajg/OTAUpdateManager/tree/main/test).
