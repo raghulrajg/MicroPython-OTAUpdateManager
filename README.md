@@ -34,7 +34,7 @@ Implementation of OTA for remote monitoring and control of IoT devices
 
 ## How It Looks
 ESP8266/ESP32 modules OTA update and monitoring using [website](https://ota.serveo.net/).
-![Homepage](https://i.imgur.com/3LIUSZR.png) ![user dashboard](https://i.imgur.com/sccSpXp.png) ![program editor](https://i.imgur.com/P9fRH2x_d.webp?maxwidth=1520&fidelity=grand)
+![Homepage](https://i.imgur.com/3LIUSZR.png) ![user dashboard](https://i.imgur.com/sccSpXp.png) ![program editor](https://i.imgur.com/DLfxktF.png)
 
 ## Quick Start
 
