@@ -95,7 +95,7 @@ To install in a virtual environment in your current project:
 
 Also see [examples](https://github.com/raghulrajg/OTAUpdateManager/tree/master/examples).
 
-## Usage
+## Using
 This library provides a OTA update
     1. handling code updates during boot (OTAUpdateManager)
 
