@@ -42,6 +42,12 @@ ESP8266/ESP32 modules OTA update and monitoring using [website](https://ota.serv
 
 #### Installing with mip
 
+Py-file
+```python
+import mip
+mip.install('github:raghulrajg/MicroPython-OTAUpdateManager/OTAUpdateManager.py')
+```
+
 To install using mpremote
 
 ```bash

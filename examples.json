@@ -1,0 +1,7 @@
+{
+    "urls": [
+        "test/main.py",
+        "github:raghulrajg/MicroPython-OTAUpdateManager/test/main.py"
+    ],
+    "version": "1.0.0"
+}
