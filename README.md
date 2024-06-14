@@ -120,7 +120,7 @@ Token = b"YOUR_TOKEN"
 SSID = "YOUR_APN_NAME"
 Password = "YOUR_APN_PASSWORD"
 
-OTAUpdate = OTAUpdateManager.OTAUpdateManager(User, Token, SSID, Password)
+OTAUpdate = OTAUpdateManager.espFOTA(User, Token, SSID, Password)
 
 def loop():
     while True:
