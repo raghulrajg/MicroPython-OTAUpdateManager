@@ -26,7 +26,7 @@ setup(
     author_email='raghulrajatmega328@gmail.com',
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU v3.0 License",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Intended Audience :: Developers",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
