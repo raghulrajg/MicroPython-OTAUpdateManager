@@ -13,17 +13,17 @@ else:
     raise ValueError("Version was not found")
 
 setup(
-    name='OTAUpdateManager',
+    name='micropython-OTAUpdateManager',
     version=release_version,
     description='Implementation of OTA for remote monitoring and controlling of IoT devices',
     long_description=open("README.md").read(),
     long_description_content_type='text/markdown',
-    packages=[''],
     project_urls={
         'Source': 'https://github.com/raghulrajg/MicroPython-OTAUpdateManager'
     },
     author='Raghul Raj G',
     author_email='raghulrajatmega328@gmail.com',
+    py_modules=['OTAUpdateManager'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
