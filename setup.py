@@ -3,8 +3,6 @@ import re
 import sys
 sys.path.pop(0)
 from setuptools import setup
-sys.path.append("./sdist_upip")
-import sdist_upip
 
 version_reference = os.getenv('GITHUB_REF', default='1.0.0')
 release_version_search = re.search(r'(\d+.\d+.\d+)', version_reference)
@@ -38,6 +36,5 @@ setup(
         "Update",
         "Microcontroller",
         "Micropython"
-    ],
-    cmdclass={'sdist': sdist_upip.sdist}
+    ]
 )
