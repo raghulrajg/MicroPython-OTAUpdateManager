@@ -99,7 +99,7 @@ To install in a virtual environment in your current project:
     pip3 install micropython-OTAUpdateManager
 ```
 
-Also see [examples](https://github.com/raghulrajg/OTAUpdateManager/tree/main/test).
+Also see [examples](https://github.com/raghulrajg/MicroPython-OTAUpdateManager/tree/main/test).
 
 ## Using
 This library provides a OTA update
